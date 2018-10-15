@@ -22,7 +22,7 @@
 			<div class="logo"> ACA VA EL LOGO Y EL NOMBRE</div>
 			<div class="bar d-flex">
 				<div class="sesion">Bienvenido "Usuario"</div>
-				<div class="sesion"><a href="">Cerrar sesión</a></div>
+				<div class="sesion"><a href="logout.php">Cerrar sesión</a></div>
 			</div>
 		</div>
         <div class="title mt-3">

@@ -4,5 +4,22 @@
 }
 
 .card{
-    margin: 7px;
+    margin: 10px;
+	max-width: 95%;
+	height: auto;
+}
+body{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('http://www.didesign.mx/gsk%20pagina/images/fondologin.jpg');
+	/*fondo alternativo: http://cleancanvas.herokuapp.com/img/backgrounds/color-splash.jpg*/
+    background-repeat:repeat;
+}
+.col-md-4 {
+    display: table-cell;
+    float: none; 
 }

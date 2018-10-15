@@ -5,7 +5,7 @@
 
 	if(isset($_POST["nombreUsuario"]) && isset($_POST["clave"])){
 		$usu=$_POST["nombreUsuario"];
-		$con=$_POST["clave"];
+		$con=md5($_POST["clave"]);
 		
 		$sql="select rol from Usuario where nombreUsuario='".$usu."' and clave='".$con."'";
 		$result = mysqli_query($conexion,$sql);
@@ -33,6 +33,4 @@
 			echo "<h3>error en usuario y contraseña ingresados</h3>";
 		}
 	}
-
-
 ?>

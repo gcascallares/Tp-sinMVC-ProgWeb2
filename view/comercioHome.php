@@ -25,7 +25,7 @@
 						<div class="sesion"><a href="">Mis Menus</a></div>
 						<div class="sesion"><a href="">Mis Ofertas</a></div>
 						<div class="sesion"><a href="">Estadisticas</a></div>
-						<div class="sesion"><a href="">Cerrar sesión</a></div>
+						<div class="sesion"><a href="logout.php">Cerrar sesión</a></div>
 					</div>
 			</div>
 			<div class="banner d-flex flex-column align-items-center">
@@ -37,7 +37,7 @@
 					<div class="row">	 
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail media" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 1</h4>
 									<p class="card-text">Descripcion</p>
@@ -48,7 +48,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-negativo-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 2</h4>
 									<p class="card-text">Descripcion</p>
@@ -59,7 +59,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 3</h4>
 									<p class="card-text">Descripcion</p>
@@ -70,7 +70,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-negativo-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 4</h4>
 									<p class="card-text">Descripcion</p>
@@ -81,7 +81,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 5</h4>
 									<p class="card-text">Descripcion</p>
@@ -92,7 +92,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="card">
-								<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+								<img class="card-img-top img-thumbnail" src="http://www.disenologoseconomicos.com/wp-content/uploads/2017/08/logo-predisenado-comida-negativo-07.jpg" alt="Mi Imagen">
 								<div class="card-body">
 									<h4 class="card-title">Menu 6</h4>
 									<p class="card-text">Descripcion</p>
@@ -112,7 +112,7 @@
 						<div class="row">	 
 							<div class="col-md-4">
 								<div class="card">
-									<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+									<img class="card-img-top img-thumbnail" src=".jpg" alt="Mi Imagen">
 									<div class="card-body">
 										<h4 class="card-title">Oferta 1</h4>
 										<p class="card-text">Descripcion</p>
@@ -123,7 +123,7 @@
 							</div>
 							<div class="col-md-4">
 								<div class="card">
-									<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+									<img class="card-img-top img-thumbnail" src=".jpg" alt="Mi Imagen">
 									<div class="card-body">
 										<h4 class="card-title">Oferta 2</h4>
 										<p class="card-text">Descripcion</p>
@@ -134,7 +134,7 @@
 							</div>
 							<div class="col-md-4">
 								<div class="card">
-									<img class="card-img-top" src=".jpg" alt="Mi Imagen">
+									<img class="card-img-top img-thumbnail" src=".jpg" alt="Mi Imagen">
 									<div class="card-body">
 										<h4 class="card-title">Oferta 3</h4>
 										<p class="card-text">Descripcion</p>

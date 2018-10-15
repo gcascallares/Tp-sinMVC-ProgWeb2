@@ -228,7 +228,7 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 insert into Usuario (nombreUsuario, clave, rol)
 values
-('admin','1111','admininstrador'),
-('cliente1','2222','cliente'),
-('delivery1','3333','delivery'),
-('opcomercion1','4444','opcomercio');
+('admin',md5('1111'),'admininstrador'),
+('cliente1',md5('2222'),'cliente'),
+('delivery1',md5('3333'),'delivery'),
+('opcomercio1',md5('4444'),'opcomercio');
