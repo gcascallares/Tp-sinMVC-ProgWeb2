@@ -1,0 +1,32 @@
+.searchComercio input{
+    border-radius: 10px;
+    border: black solid 1px;
+}
+.contenido{
+    width: 80%;
+    margin: 0px auto;
+    padding: 5px;
+}
+.comercio{
+    margin-bottom: 20px;
+    border-bottom: #A3A1A1 solid 2px;
+    padding-bottom: 10px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border: red solid 1px;
+}
+.nombreComercio{
+    font-weight: bold;
+}
+.comercio input[type="button"]{
+    margin-top: 7px;
+}
+
+.filtro{
+    padding: 15px;
+}
+.descripcion{
+    font-size: 14px;
+}
