@@ -160,7 +160,7 @@
 			</div>
 				<!-- <div class="text-center mb-3">
 				<a href="#" class="btn btn-primary mt-3">Ver Todos</a>
-				</div> -->
+				</div>   -->
 		</div>
 		<div class="footer d-flex justify-content-center mt-4 pt-1">
 				INFORMACION SOBRE LA EMPRESA, FOOTER LINKS ETC...
